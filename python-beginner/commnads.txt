@@ -1,0 +1,18 @@
+# Helpful Information:
+
+1: 
+   type('str'); type('str')
+   dir('str') => returns helpful method on string
+
+2:
+   type([]); type('list')
+   dir([]) => returns helpful method on string
+
+3:
+  type(10); // type('int')
+  dir(10) => returns helpful method on string
+
+
+- python => everything is object.
+- list maintains order in python and are mutable by default.
+- missing a semicolon in list(seperating each item) results in `syntax` error
